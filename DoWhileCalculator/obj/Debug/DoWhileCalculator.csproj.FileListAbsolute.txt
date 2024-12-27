@@ -1,0 +1,7 @@
+H:\Sunbeam_Asssignment\ms.net\Assignments\DoWhileCalculator\bin\Debug\DoWhileCalculator.exe.config
+H:\Sunbeam_Asssignment\ms.net\Assignments\DoWhileCalculator\bin\Debug\DoWhileCalculator.exe
+H:\Sunbeam_Asssignment\ms.net\Assignments\DoWhileCalculator\bin\Debug\DoWhileCalculator.pdb
+H:\Sunbeam_Asssignment\ms.net\Assignments\DoWhileCalculator\obj\Debug\DoWhileCalculator.csproj.AssemblyReference.cache
+H:\Sunbeam_Asssignment\ms.net\Assignments\DoWhileCalculator\obj\Debug\DoWhileCalculator.csproj.CoreCompileInputs.cache
+H:\Sunbeam_Asssignment\ms.net\Assignments\DoWhileCalculator\obj\Debug\DoWhileCalculator.exe
+H:\Sunbeam_Asssignment\ms.net\Assignments\DoWhileCalculator\obj\Debug\DoWhileCalculator.pdb

@@ -1,0 +1,7 @@
+H:\Sunbeam_Asssignment\ms.net\Assignments\BasicFourFunctionCalculator\obj\Debug\BasicFourFunctionCalculator.csproj.AssemblyReference.cache
+H:\Sunbeam_Asssignment\ms.net\Assignments\BasicFourFunctionCalculator\obj\Debug\BasicFourFunctionCalculator.csproj.CoreCompileInputs.cache
+H:\Sunbeam_Asssignment\ms.net\Assignments\BasicFourFunctionCalculator\bin\Debug\BasicFourFunctionCalculator.exe.config
+H:\Sunbeam_Asssignment\ms.net\Assignments\BasicFourFunctionCalculator\bin\Debug\BasicFourFunctionCalculator.exe
+H:\Sunbeam_Asssignment\ms.net\Assignments\BasicFourFunctionCalculator\bin\Debug\BasicFourFunctionCalculator.pdb
+H:\Sunbeam_Asssignment\ms.net\Assignments\BasicFourFunctionCalculator\obj\Debug\BasicFourFunctionCalculator.exe
+H:\Sunbeam_Asssignment\ms.net\Assignments\BasicFourFunctionCalculator\obj\Debug\BasicFourFunctionCalculator.pdb
